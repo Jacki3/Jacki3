@@ -5,7 +5,7 @@
   <a href="https://www.youtube.com/channel/UCOv5_XC5zuLUN8jkHoRB7og">
     <img src="https://img.shields.io/badge/YouTube-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://www.youtube.com/channel/UCOv5_XC5zuLUN8jkHoRB7og">
+    <a href="https://photos.app.goo.gl/WLdyv6qsks7XeeV87">
     <img src="https://img.shields.io/badge/Photos-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
     <a href="_BLANK">
