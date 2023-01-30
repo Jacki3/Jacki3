@@ -1,14 +1,14 @@
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://staffprofiles.bournemouth.ac.uk/display/jbrett2">
     <img src="https://img.shields.io/badge/Publications-BU-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.youtube.com/channel/UCOv5_XC5zuLUN8jkHoRB7og">
     <img src="https://img.shields.io/badge/YouTube-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-    <a href="your-linkedin-URL">
+    <a href="https://www.youtube.com/channel/UCOv5_XC5zuLUN8jkHoRB7og">
     <img src="https://img.shields.io/badge/Photos-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-    <a href="your-linkedin-URL">
+    <a href="_BLANK">
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
 </div>
