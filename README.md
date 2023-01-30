@@ -1,4 +1,4 @@
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://staffprofiles.bournemouth.ac.uk/display/jbrett2">
     <img src="https://img.shields.io/badge/Publications-BU-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
@@ -13,7 +13,9 @@
   </a>
 </div>
 
+<div id ="lang" align="center")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacki3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 
