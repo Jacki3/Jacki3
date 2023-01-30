@@ -2,11 +2,14 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
+  </a>
+    <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
 </div>
 
