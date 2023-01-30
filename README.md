@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/1074665/screenshots/4249659/nes_controller.gif" width="100"/>
+</div>
 
 <!--
 **Jacki3/Jacki3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
