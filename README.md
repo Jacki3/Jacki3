@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacki3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacki3)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacki3&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
