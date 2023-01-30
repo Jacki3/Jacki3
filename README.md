@@ -1,12 +1,5 @@
-
-<div id="badges" align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacki3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacki3&layout=compact&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-</div>
+  <div id="badges" align="center">
+  
   <a href="https://staffprofiles.bournemouth.ac.uk/display/jbrett2">
     <img src="https://img.shields.io/badge/Publications-BU-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
@@ -19,6 +12,12 @@
     <a href="_BLANK">
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacki3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacki3&layout=compact&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</div>
+
 
 
 <!--
