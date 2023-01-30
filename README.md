@@ -13,8 +13,7 @@
   </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacki3&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacki3&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 <!--
 <h1>
   hey there
