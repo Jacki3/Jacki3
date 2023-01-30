@@ -1,12 +1,12 @@
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Publications-BU-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
     <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Photos-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
     <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
