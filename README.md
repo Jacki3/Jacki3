@@ -11,7 +11,8 @@
     <a href="_BLANK">
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-</br>
+
+  <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacki3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
