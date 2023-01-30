@@ -19,8 +19,11 @@
 
 
 
-
+<div id ="streaks" align="center")
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacki3&layout=compact&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</div>
+
+
 <!--
 <h1>
   hey there
