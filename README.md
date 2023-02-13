@@ -1,9 +1,4 @@
-<h1>
-  Howdy
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  
-  <div id="badges" align="center">
+<div id="badges" align="center">
   
   <a href="https://staffprofiles.bournemouth.ac.uk/display/jbrett2">
     <img src="https://img.shields.io/badge/Publications-BU-%2323C9FF" alt="LinkedIn Badge"/>
@@ -17,6 +12,11 @@
     <a href="_BLANK">
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
+  
+  <h1>
+  Howdy
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacki3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
