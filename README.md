@@ -1,15 +1,15 @@
 <div id="badges" align="center">
   
-  <a href="https://staffprofiles.bournemouth.ac.uk/display/jbrett2" target="_BLANK">
+  <a href="https://staffprofiles.bournemouth.ac.uk/display/jbrett2/" target="_BLANK">
     <img src="https://img.shields.io/badge/Publications-BU-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCOv5_XC5zuLUN8jkHoRB7og" target="_BLANK">
+  <a href="https://www.youtube.com/channel/UCOv5_XC5zuLUN8jkHoRB7og/" target="_BLANK">
     <img src="https://img.shields.io/badge/YouTube-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://photos.app.goo.gl/WLdyv6qsks7XeeV87" target="_BLANK">
+    <a href="https://photos.app.goo.gl/WLdyv6qsks7XeeV87/" target="_BLANK">
     <img src="https://img.shields.io/badge/Photos-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://jacki3.github.io/jackbrett/file/CVJBrett.pdf" target="_blank">
+    <a href="https://jacki3.github.io/jackbrett/file/CVJBrett.pdf/" target="_blank">
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
   
