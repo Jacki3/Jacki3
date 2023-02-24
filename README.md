@@ -12,8 +12,6 @@
     <a href="https://jacki3.github.io/jackbrett/file/CVJBrett.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-  
-    </a>
     <a href="https://jacki3.github.io/jackbrett/" target="_blank">
     <img src="  https://img.shields.io/badge/portfolio-me-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
