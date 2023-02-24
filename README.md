@@ -9,7 +9,7 @@
     <a href="https://photos.app.goo.gl/WLdyv6qsks7XeeV87" target="_BLANK">
     <img src="https://img.shields.io/badge/Photos-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://jacki3.github.io/jackbrett/file/CVJBrett.pdf" target="_BLANK">
+    <a href="https://jacki3.github.io/jackbrett/file/CVJBrett.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
   
