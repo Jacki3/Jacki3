@@ -1,6 +1,6 @@
 <div id="badges" align="center">
   
-  <a href="https://staffprofiles.bournemouth.ac.uk/display/jbrett2" target="_BLANK">
+  <a href="https://staffprofiles.bournemouth.ac.uk/display/jbrett2](https://www.researchgate.net/scientific-contributions/Jack-Brett-2175040107" target="_BLANK">
     <img src="https://img.shields.io/badge/Publications-BU-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCOv5_XC5zuLUN8jkHoRB7og" target="_BLANK">
