@@ -23,7 +23,7 @@ Who am I? :question:
 
 - A research engineer with a focus on game development with 10+ years of experience.
 - A doctoral graduate with a focus on educational and serious games.
-- An avid writer with over 10 published peer-reviewed papers with many collaborators.
+- An avid writer with over <a href="https://staffprofiles.bournemouth.ac.uk/display/jbrett2">10 published peer-reviewed papers</a> with many collaborators.
 - Find my portfolio <a href="https://github.com/Jacki3">here.</a>
 
 <br/>
