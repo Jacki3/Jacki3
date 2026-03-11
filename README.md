@@ -31,7 +31,7 @@ Who am I? :question:
 
 <div id="streaks" align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jacki3&theme=javascript&hide_border=false&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jacki3&theme=javascript&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
