@@ -15,11 +15,23 @@
     <a href="https://jacki3.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-me-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-  
-  
+</div>
+
 Howdy :v:
 
+Who am I? :question:
 
+- A research engineer with a focus on game development with 10+ years of experience.
+- A doctoral graduate with a focus on educational and serious games
+- An avid writer with over 10 published peer-reviewed papers with many collaborators
+- Find my portfolio here: jacki3.github.io
+
+<br/>
+<br/>
+
+<div id="streaks" align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jacki3&theme=black-ice&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 </div>
+
