@@ -17,9 +17,7 @@
   </a>
   
   
-  <h1>
-  Howdy
-</h1>
+Howdy :v:
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jacki3&theme=black-ice&hide_border=true&mode=weekly)](https://git.io/streak-stats)
