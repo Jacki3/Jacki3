@@ -12,7 +12,7 @@
     <a href="https://jacki3.github.io/jackbrett/file/CV -_JBrett.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-jdotb-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://jacki3.github.io/jackbrett/" target="_blank">
+    <a href="https://jacki3.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-me-%2323C9FF" alt="LinkedIn Badge"/>
   </a>
   
