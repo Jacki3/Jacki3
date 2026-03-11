@@ -22,9 +22,6 @@
 </h1>
 
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jacki3&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=275&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jacki3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jacki3&theme=black-ice&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 </div>
